@@ -5,9 +5,9 @@ Change the Thickness, Length, Spacing, Rotation, Outline, and Color. It comes co
 
 How to Use?
 
-Download the application.
-Extract the ZIP file.
-Launch the executable.
-Customize your crosshair.
-Set your game to Windowed Fullscreen mode.
-Enjoy!
+1. Download the application.
+2. Extract the ZIP file.
+3. Launch the executable.
+4. Customize your crosshair.
+5. Set your game to Windowed Fullscreen mode.
+6. Enjoy!
